@@ -23,4 +23,4 @@ AR/VR Application Developments including
 - AR/VR avatar/scene creation
 
 
-You can find my CV here: [Xiaofei's Curriculum Vitae](../assests/CV_Xiaofei_Huang_2024.pdf)
+You can find my CV here: [Xiaofei's Curriculum Vitae](../assets/CV_Xiaofei_Huang_2024.pdf)
